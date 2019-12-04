@@ -4,7 +4,7 @@ echo -e 'RUN AS ROOT'
 echo -e ''
 echo -e ''
 if [ -f /usr/bin/toilet ]; then
-        toilet -f smblock -F gay MONITOR MODE ENABALE
+        toilet -f smblock -F gay MONITOR MODE ENABLE
         echo -e '<-----------------Coded by PSYCHO72----------------->'
 else
 	sudo apt-get install toilet -y 
